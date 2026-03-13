@@ -84,7 +84,18 @@
 
 ## Стек технологий
 
-- **Android** — Kotlin, Jetpack Compose
-- **Архитектура** — MVI, Clean Architecture
+**Android**
+- Kotlin
+- Andoird
+- Jetpack Compose
+- Яндекс Карты
+
+**Backend**
+- Node.js 
+- Express.js
+- TypeScript
+- PostgreSQL
+- Swagger
+- Docker
 
 
