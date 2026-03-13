@@ -85,7 +85,6 @@
 ## Стек технологий
 
 - **Android** — Kotlin, Jetpack Compose
-- **Архитектура** — MVVM, Clean Architecture
-- **Бэкенд** — Firebase (Auth, Firestore, Storage)
+- **Архитектура** — MVI, Clean Architecture
 
 
